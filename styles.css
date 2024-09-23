@@ -1,5 +1,7 @@
 body {
     background-color:lightpink;
+    text-align: center;
+    color:crimson
     font-family: fantasy, sans-serif;
     text-size-adjust: 80;
 }
@@ -10,3 +12,4 @@ h1 {
     color:rgb(252, 51, 158)
 
 }
+
