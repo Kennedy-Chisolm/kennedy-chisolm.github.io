@@ -1,9 +1,9 @@
 body {
     background-color:lightpink;
     text-align: center;
-    color:rgb(142, 6, 33)
     font-family: fantasy, sans-serif;
     text-size-adjust: 80;
+    color: #41045e;
 }
 h1 {
     text-align: right;
