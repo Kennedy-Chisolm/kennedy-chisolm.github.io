@@ -23,7 +23,7 @@ border-radius: 25%;
 
 
 .project img{
-    width: 70px;
+    width: 100px;
     margin: 10px;
     border: 2px solid rgb(255, 255, 255); /* choose a color */
     display: block;
