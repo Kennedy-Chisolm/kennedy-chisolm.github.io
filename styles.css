@@ -9,7 +9,7 @@ h1 {
     text-align: center;
     text-shadow: 0cap;
     text-size-adjust: 60;
-    color:rgb(252, 51, 158)
+    color:rgb(73, 0, 43)
 
 }
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
@@ -17,7 +17,7 @@ h1 {
 width: 70%;
 margin: 10px;
 padding: 30px 20px;
-background: white; /* pick a color */
+background: rgb(248, 162, 191); /* pick a color */
 border-radius: 25%;
 }
 
